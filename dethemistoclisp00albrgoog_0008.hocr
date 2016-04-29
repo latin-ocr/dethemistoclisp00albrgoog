@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dethemistoclisp00albrgoog_0008.png"; bbox 0 0 2954 4772; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 5 1335 1186 1794">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 5 1335 1186 1794">
+     <span class='ocr_line' id='line_1_1' title="bbox 5 1335 1177 1471; baseline 0.003 -3"><span class='ocrx_word' id='word_1_1' title='bbox 5 1335 87 1454; x_wconf 67' lang='grc' dir='ltr'><strong>Γ..</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 255 1455 257 1465; x_wconf 94' lang='grc'><em>.</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 301 1347 790 1471; x_wconf 84' lang='lat' dir='ltr'><strong>HERMANNO</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 829 1349 1177 1471; x_wconf 83' lang='lat' dir='ltr'>SAUPPIO</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 5 1635 1186 1794; baseline 0.016 -19"><span class='ocrx_word' id='word_1_5' title='bbox 5 1635 13 1644; x_wconf 41' lang='lat'>⁵</span> <span class='ocrx_word' id='word_1_6' title='bbox 296 1655 602 1778; x_wconf 79' lang='lat' dir='ltr'><strong>CURTIO</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 638 1656 1186 1794; x_wconf 81' lang='lat' dir='ltr'>WAOHSMUTH</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 409 1957 1069 2029">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 409 1957 1069 2029">
+     <span class='ocr_line' id='line_1_3' title="bbox 409 1957 1069 2029; baseline 0.005 -3"><span class='ocrx_word' id='word_1_8' title='bbox 409 1957 550 2026; x_wconf 80' lang='lat' dir='ltr'>HASGE</span> <span class='ocrx_word' id='word_1_9' title='bbox 572 1957 827 2029; x_wconf 83' lang='lat' dir='ltr'>STUDIORUM</span> <span class='ocrx_word' id='word_1_10' title='bbox 847 1960 1069 2029; x_wconf 83' lang='lat' dir='ltr'>PRIMITIAS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1482 4772">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1482 4772">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1482 4772; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1482 4772; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
